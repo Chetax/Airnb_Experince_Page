@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Chetax/Airnb_Experince_Page.git/static/css/main.31d6cfe0.css",
+    "main.js": "/git@github.com:Chetax/Airnb_Experince_Page.git/static/js/main.ce2db71a.js",
+    "static/js/787.bce1e91b.chunk.js": "/git@github.com:Chetax/Airnb_Experince_Page.git/static/js/787.bce1e91b.chunk.js",
+    "static/media/Group.png": "/git@github.com:Chetax/Airnb_Experince_Page.git/static/media/Group.8f80300d4cddb242d9cd.png",
+    "static/media/image1.png": "/git@github.com:Chetax/Airnb_Experince_Page.git/static/media/image1.4dcb2224d553ccd977a4.png",
+    "static/media/image3.png": "/git@github.com:Chetax/Airnb_Experince_Page.git/static/media/image3.de6d8e47cc4f6902350d.png",
+    "static/media/image2.png": "/git@github.com:Chetax/Airnb_Experince_Page.git/static/media/image2.4a10cddcb175d2ec7128.png",
+    "index.html": "/git@github.com:Chetax/Airnb_Experince_Page.git/index.html",
+    "main.ce2db71a.js.map": "/git@github.com:Chetax/Airnb_Experince_Page.git/static/js/main.ce2db71a.js.map",
+    "787.bce1e91b.chunk.js.map": "/git@github.com:Chetax/Airnb_Experince_Page.git/static/js/787.bce1e91b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ce2db71a.js"
+  ]
+}
