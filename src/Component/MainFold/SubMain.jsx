@@ -1,4 +1,4 @@
-import image1 from './image1.png';
+
 const SubMain = (props) => {
     return ( <>
     <div className="container ">
@@ -9,7 +9,6 @@ const SubMain = (props) => {
         <p style={{fontFamily:'sans-serif'}} className="rating">⭐{props.ratting}.0</p>
         <p  style={{fontFamily:'sans-serif' ,fontSize:'15px'}} className="info">{props.para}
 </p>
-
         <p className="price"><span style={{fontWeight:'bold'}}>{props.price}</span>/ person;
 </p>
 
@@ -18,6 +17,7 @@ const SubMain = (props) => {
         </div>
         
     </div>
+    
     </> );
 }
  

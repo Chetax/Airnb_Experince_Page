@@ -1,0 +1,27 @@
+/* Add the following styles to your CSS */
+
+#carouselExample {
+    display: flex;
+    overflow-x: auto;  /* Enable horizontal scrolling */
+    width: 100%;        /* Full width of the container */
+    padding: 10px;      /* Optional padding for spacing */
+  }
+  
+  .container {
+    width: 20vw;        /* Width of each item */
+    margin-right: 10px; /* Optional margin between items */
+  }
+  
+  .col-3, .col-2 {
+    flex: 0 0 10%;      /* Set a fixed width for the columns (adjust as needed) */
+  }
+  
+  .col-7 {
+    flex: 1;            /* Let this column take up the remaining space */
+  }
+  
+  /* Optional: Add styling to hide the default scrollbar */
+  #carouselExample::-webkit-scrollbar {
+    display: none;
+  }
+  
