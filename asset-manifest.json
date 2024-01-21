@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Airnb_Experince_Page/static/css/main.31d6cfe0.css",
-    "main.js": "/Airnb_Experince_Page/static/js/main.773f4578.js",
+    "main.js": "/Airnb_Experince_Page/static/js/main.f19767a1.js",
     "static/js/787.bce1e91b.chunk.js": "/Airnb_Experince_Page/static/js/787.bce1e91b.chunk.js",
     "static/media/Group.png": "/Airnb_Experince_Page/static/media/Group.8f80300d4cddb242d9cd.png",
     "static/media/image1.png": "/Airnb_Experince_Page/static/media/image1.4dcb2224d553ccd977a4.png",
     "static/media/image3.png": "/Airnb_Experince_Page/static/media/image3.de6d8e47cc4f6902350d.png",
     "static/media/image2.png": "/Airnb_Experince_Page/static/media/image2.4a10cddcb175d2ec7128.png",
     "index.html": "/Airnb_Experince_Page/index.html",
-    "main.773f4578.js.map": "/Airnb_Experince_Page/static/js/main.773f4578.js.map",
+    "main.f19767a1.js.map": "/Airnb_Experince_Page/static/js/main.f19767a1.js.map",
     "787.bce1e91b.chunk.js.map": "/Airnb_Experince_Page/static/js/787.bce1e91b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.773f4578.js"
+    "static/js/main.f19767a1.js"
   ]
 }
